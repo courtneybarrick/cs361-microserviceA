@@ -1,7 +1,7 @@
 # cs361-microserviceA
 Parses a JSON file that contains data of TV shows to return the rating, genre, and episode duration for a particular TV series.
 
-**REQUIREMENTS PRIOR TO USE**
+**REQUIREMENTS PRIOR TO USE** <br/>
 Update line 11 of microserviceA.py to reflect the name of the JSON file to be used.
 
 Clear instructions for how to programmatically REQUEST data from the microservice you implemented. Include an example call. Do not advise your teammate to use your test program or require them to, your teammate must write all of their own code.
